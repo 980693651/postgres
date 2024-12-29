@@ -1,4 +1,4 @@
-PostgreSQL Database Management System
+PostgreSQL Database Management System test
 =====================================
 
 This directory contains the source code distribution of the PostgreSQL
